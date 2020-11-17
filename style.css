@@ -1,3 +1,31 @@
-h1 {
-    color: red;
+body {
+    background-color: #eae9e9;
+    font-family: "Roboto", sans-serif;
+}
+
+header {
+    display: grid;
+    background-color: #d4d4d3;
+    border-radius: 10px;
+    grid-template-areas: 
+    "title"
+    "title-caption";
+}
+
+#title {
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
+
+#title-caption{
+    text-align: center;
+    font-style: italic;
+    padding-bottom: 10px;
+}
+#main {
+    
+}
+
+#img-div {
+
 }
