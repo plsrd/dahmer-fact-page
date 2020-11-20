@@ -115,7 +115,7 @@ article {
     padding: .5em;
     text-align: center;
     border-radius: 1em;
-    height: 150px;
+    min-height: 150px;
 }
 
 .event {
